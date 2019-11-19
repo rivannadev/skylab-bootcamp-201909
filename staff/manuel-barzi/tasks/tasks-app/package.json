@@ -7,10 +7,20 @@
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0"
   },
+<<<<<<< HEAD
+=======
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  },
+>>>>>>> upstream/develop
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
+=======
+    "test:debug": "react-scripts inspect test --runInBand --no-cache",
+>>>>>>> upstream/develop
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
